@@ -6,3 +6,9 @@
         document.getElementById('year').options.add(optn);
         document.getElementById('year').style.color = 'black';
     }
+
+
+// HTML: 
+/*
+ <select id="year"></select>
+*/
